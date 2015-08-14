@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 11 16:14:37 CST 2015
+http\://google-gson.googlecode.com/svn/mavenrepo/.error=Could not transfer artifact io.netty\:netty\:pom\:3.5.2.Final from/to gson (http\://google-gson.googlecode.com/svn/mavenrepo)\: connect timed out
+@default-http\://google-gson.googlecode.com/svn/mavenrepo/.lastUpdated=1439280877496
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1439280867487

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 11 16:40:05 CST 2015
+jcl-over-slf4j-1.7.8.jar>central=
+jcl-over-slf4j-1.7.8.pom>central=
+jcl-over-slf4j-1.7.8.pom>spring-libs-release=
